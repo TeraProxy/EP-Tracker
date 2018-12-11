@@ -1,6 +1,14 @@
 {
-	"disableAutoUpdate": false,
-	"options": { "niceName": "<font color='#FDD017'>Talents</font>" },
-	"servers": ["https://raw.githubusercontent.com/Owyn/talents_info/master/"],
-	"supportUrl": "https://github.com/Owyn/talents_info/issues"
+    "disableAutoUpdate": false,
+    "name": "EP-Tracker",
+    "author": "Owyn / Kourinn / TeraProxy",
+    "description": "A tera-proxy module that shows you information about your Enhancement Points experience, including the daily softcap.",
+    "version": "1.0.0",
+    "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A3KBZUCSEQ5RJ",
+    "options": {
+        "niceName": "EP"
+    },
+    "servers": ["https://raw.githubusercontent.com/TeraProxy/EP-Tracker/master/"],
+    "supportUrl": "https://github.com/TeraProxy/EP-Tracker/issues",
+    "conflicts": ["talents_info"]
 }
