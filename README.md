@@ -15,8 +15,8 @@ This is a fork of Owyn's original talents_info.
 ![Screenshot](https://i.imgur.com/z9chZyt.png)
 
 ## Usage
-**By opening the ingame EP menu** you will get a report about your EP level, EP experience and the daily softcap.  
-**On gaining EP experience** in any form, the module will let you know how much experience you exactly got and how much is left until you only get a reduced amount for the day.  
+**By opening the ingame EP menu** you will get an EP status report, including: Level, used and total EP, experience and daily softcap.  
+**On gaining EP experience** in any form, the module will let you know how much experience you exactly got and how much is left until you only get a reduced amount for the rest of the day.  
   
 While in game, open a proxy chat session by typing "/proxy" or "/8" in chat and hitting the space bar.  
 This serves as the script's command interface.  
@@ -45,7 +45,7 @@ Original by Owyn -> https://github.com/Owyn
 
 ### 1.0.0
 * [*] Now using protocol definition instead of raw hook to be future proof
-* [-] Added display of EP in report
+* [+] Added display of used and total EP in report
 * [-] Removed ugly HTML tags from module name
 * [~] Code beautification
 
