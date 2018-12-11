@@ -31,13 +31,13 @@ Whatever you send to the proxy chat in game is intercepted client-side. The chat
 Original by Owyn -> https://github.com/Owyn
 
 ## FAQ
-**Q.** - Why does the module show a different level than the ingame menu?
+**Q.** - Why does the module show a different level than the ingame menu?  
 **A.** - The game doesn't actually show your real level, only the EP. Check this document for more info: https://docs.google.com/spreadsheets/d/e/2PACX-1vTy7_5TYA_WUd--cFqYeGFm0mnb9oaCzcar3yH3FgkQD6y-mRD7id9k97ttrMbkjjId8ly-aBWzexZt/pubhtml?gid=5547005
 
-**Q.** - Why is my daily experience not 0 even though I didn't do anything yet?
+**Q.** - Why is my daily experience not 0 even though I didn't do anything yet?  
 **A.** - The daily EP experience resets once per day at a specific time. When exactly depends on your server.
 
-**Q.** - Why does the daily softcap in the module not match what's written in that document?
+**Q.** - Why does the daily softcap in the module not match what's written in that document?  
 **A.** - After 89% of your daily softcap you already start to gain a reduced amount of EP experience. Check this document for more info: https://docs.google.com/document/d/16wuje8nV7yYd0y2gq3oVFbjpR2Ulx4SQRWQQkK-LVrs
 
 ## Changelog
