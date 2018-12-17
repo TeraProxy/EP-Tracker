@@ -6,7 +6,8 @@
     "version": "1.0.0",
     "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A3KBZUCSEQ5RJ",
     "options": {
-        "niceName": "EP"
+        "niceName": "EP",
+        "guiName": "EP-Tracker"
     },
     "servers": ["https://raw.githubusercontent.com/TeraProxy/EP-Tracker/master/"],
     "supportUrl": "https://github.com/TeraProxy/EP-Tracker/issues",
