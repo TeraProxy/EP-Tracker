@@ -53,7 +53,7 @@ module.exports = function EPTracker(mod) {
 	})
 
 	mod.hook('C_REQUEST_CONTRACT', 1, event => {
-		if (event.type == 77) msg() // EP UI
+		if (event.type == 78) msg() // EP UI
 	})
 
 	// Function to show lvl, usedPoints/ep, exp, dailyExp/dailySoftcap (% of daily softcap)

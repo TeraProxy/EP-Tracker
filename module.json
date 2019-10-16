@@ -1,9 +1,9 @@
 {
     "disableAutoUpdate": false,
     "name": "EP-Tracker",
-    "author": "Owyn / Kourinn / TeraProxy",
+    "author": "TeraProxy / Owyn / Kourinn",
     "description": "A tera-proxy module that shows you information about your Enhancement Points experience, including the daily softcap.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A3KBZUCSEQ5RJ",
     "options": {
         "niceName": "EP",

@@ -1,13 +1,13 @@
 {
-	"files": {
-		"README.md": "9a14a35477318ea854529affb7b70852191c4c0dd49f073fabcbc45aa0df78ae",
-		"index.js": "2443976916ee5bca701cdfc00692830636ab164e63bcc4ae76f35e36d1e85874",
-		"module.json": "18fcb1246e707474e0a7cca8afde283a79ce4fd9fb7560a797494d7131c1da84"
-	},
-	"defs": {
-		"C_REQUEST_CONTRACT": 1,
-		"S_CHANGE_EP_EXP_DAILY_LIMIT": 1,
-		"S_LOAD_EP_INFO": 1,
-		"S_PLAYER_CHANGE_EP": 1
-	}
+    "files": {
+        "README.md": "6425d13dafd78d2e76c2f0b02ef3694d09bd99857025091e806c6d9d84f474e1",
+        "index.js": "08ddc89f3a90ea0a1b3c269b3f4a1d6182b1494cd85a1a5a374f2beb68f733fc",
+        "module.json": "5c22c1246900ba7d087f30dcfec0c351d6a9a73163235fc139df0a174a92943d"
+    },
+    "defs": {
+        "C_REQUEST_CONTRACT": 1,
+        "S_CHANGE_EP_EXP_DAILY_LIMIT": 1,
+        "S_LOAD_EP_INFO": 1,
+        "S_PLAYER_CHANGE_EP": 1
+    }
 }

@@ -43,6 +43,8 @@ Original by Owyn -> https://github.com/Owyn
 ## Changelog
 <details>
 
+### 1.0.1
+* [*] Updated contract type
 ### 1.0.0
 * [*] Now using protocol definition instead of raw hook to be future proof
 * [+] Added display of used and total EP in report
